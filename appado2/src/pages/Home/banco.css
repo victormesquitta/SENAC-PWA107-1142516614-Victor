@@ -1,0 +1,58 @@
+.homep{
+    min-height: 800px;
+    max-width: 1920;
+
+   
+}
+
+.imagemfundo{
+    margin-top: 5%;
+    border-radius: 0px 10px 10px 0px;
+    width: 47%;
+    height: 47%;
+    display: inline;
+    
+    
+}
+
+
+.texto{
+    width: 35%;
+    display: inline;
+    float: right;
+    text-align: justify;
+    margin-top: 10%;
+    margin-right: 5%;
+    margin-left: 2.5%;
+    padding-right: 15px;
+    color: #171c2f;
+    
+    
+}
+
+#txt2{
+    font: bold 42pt arial;
+    margin-bottom: 1%;
+
+}
+
+#textinho{
+    font: normal 14pt helvetica;
+    line-height: 130%;
+}
+
+#botao{
+    margin-top: 8%;
+    border-radius: 10px;
+    width: 50%;
+    height: 50px;
+    background-color: #171c2f;
+    color: white;
+    font: normal 90% arial;
+    text-align: center;
+}
+
+body{
+    background: white;
+}
+    
